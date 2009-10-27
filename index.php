@@ -6,7 +6,7 @@ href="main.css" />
 -->
 
 <div id="todays_ads_top_bar"
-style="background-color:blue;
+style="background-color:red;
 left:100px;
 top:100px;
 width:190px;
@@ -26,7 +26,7 @@ echo $link;
 ?>
 <br>
 <div id="todays_ads_bottom_bar"
-style="background-color:blue;
+style="background-color:red;
 left:100px;
 top:100px;
 width:190px;
