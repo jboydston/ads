@@ -6,7 +6,7 @@ href="main.css" />
 -->
 
 <div id="todays_ads_top_bar"
-style="background-color:red;
+style="background-color:blue;
 left:100px;
 top:100px;
 width:190px;
